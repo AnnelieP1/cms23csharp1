@@ -1,0 +1,14 @@
+C:\cms23-csharp1\03\LoopAndConditions\bin\Debug\net7.0\LoopAndConditions.exe
+C:\cms23-csharp1\03\LoopAndConditions\bin\Debug\net7.0\LoopAndConditions.deps.json
+C:\cms23-csharp1\03\LoopAndConditions\bin\Debug\net7.0\LoopAndConditions.runtimeconfig.json
+C:\cms23-csharp1\03\LoopAndConditions\bin\Debug\net7.0\LoopAndConditions.dll
+C:\cms23-csharp1\03\LoopAndConditions\bin\Debug\net7.0\LoopAndConditions.pdb
+C:\cms23-csharp1\03\LoopAndConditions\obj\Debug\net7.0\LoopAndConditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\cms23-csharp1\03\LoopAndConditions\obj\Debug\net7.0\LoopAndConditions.AssemblyInfoInputs.cache
+C:\cms23-csharp1\03\LoopAndConditions\obj\Debug\net7.0\LoopAndConditions.AssemblyInfo.cs
+C:\cms23-csharp1\03\LoopAndConditions\obj\Debug\net7.0\LoopAndConditions.csproj.CoreCompileInputs.cache
+C:\cms23-csharp1\03\LoopAndConditions\obj\Debug\net7.0\LoopAndConditions.dll
+C:\cms23-csharp1\03\LoopAndConditions\obj\Debug\net7.0\refint\LoopAndConditions.dll
+C:\cms23-csharp1\03\LoopAndConditions\obj\Debug\net7.0\LoopAndConditions.pdb
+C:\cms23-csharp1\03\LoopAndConditions\obj\Debug\net7.0\LoopAndConditions.genruntimeconfig.cache
+C:\cms23-csharp1\03\LoopAndConditions\obj\Debug\net7.0\ref\LoopAndConditions.dll
