@@ -1,0 +1,14 @@
+C:\cms23-csharp1\04_ClassesAndLists\04_ClassesAndLists\bin\Debug\net7.0\04_ClassesAndLists.exe
+C:\cms23-csharp1\04_ClassesAndLists\04_ClassesAndLists\bin\Debug\net7.0\04_ClassesAndLists.deps.json
+C:\cms23-csharp1\04_ClassesAndLists\04_ClassesAndLists\bin\Debug\net7.0\04_ClassesAndLists.runtimeconfig.json
+C:\cms23-csharp1\04_ClassesAndLists\04_ClassesAndLists\bin\Debug\net7.0\04_ClassesAndLists.dll
+C:\cms23-csharp1\04_ClassesAndLists\04_ClassesAndLists\bin\Debug\net7.0\04_ClassesAndLists.pdb
+C:\cms23-csharp1\04_ClassesAndLists\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\cms23-csharp1\04_ClassesAndLists\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.AssemblyInfoInputs.cache
+C:\cms23-csharp1\04_ClassesAndLists\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.AssemblyInfo.cs
+C:\cms23-csharp1\04_ClassesAndLists\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.csproj.CoreCompileInputs.cache
+C:\cms23-csharp1\04_ClassesAndLists\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.dll
+C:\cms23-csharp1\04_ClassesAndLists\04_ClassesAndLists\obj\Debug\net7.0\refint\04_ClassesAndLists.dll
+C:\cms23-csharp1\04_ClassesAndLists\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.pdb
+C:\cms23-csharp1\04_ClassesAndLists\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.genruntimeconfig.cache
+C:\cms23-csharp1\04_ClassesAndLists\04_ClassesAndLists\obj\Debug\net7.0\ref\04_ClassesAndLists.dll
