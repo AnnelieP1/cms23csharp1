@@ -2,3 +2,13 @@ C:\cms23-csharp1\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.GeneratedMSB
 C:\cms23-csharp1\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.AssemblyInfoInputs.cache
 C:\cms23-csharp1\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.AssemblyInfo.cs
 C:\cms23-csharp1\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.csproj.CoreCompileInputs.cache
+C:\cms23-csharp1\Lektion-5\01_Exercise\bin\Debug\net7.0\01_Exercise.exe
+C:\cms23-csharp1\Lektion-5\01_Exercise\bin\Debug\net7.0\01_Exercise.deps.json
+C:\cms23-csharp1\Lektion-5\01_Exercise\bin\Debug\net7.0\01_Exercise.runtimeconfig.json
+C:\cms23-csharp1\Lektion-5\01_Exercise\bin\Debug\net7.0\01_Exercise.dll
+C:\cms23-csharp1\Lektion-5\01_Exercise\bin\Debug\net7.0\01_Exercise.pdb
+C:\cms23-csharp1\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.dll
+C:\cms23-csharp1\Lektion-5\01_Exercise\obj\Debug\net7.0\refint\01_Exercise.dll
+C:\cms23-csharp1\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.pdb
+C:\cms23-csharp1\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.genruntimeconfig.cache
+C:\cms23-csharp1\Lektion-5\01_Exercise\obj\Debug\net7.0\ref\01_Exercise.dll

@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\01_Exercise",
+    "\\01_Exercise\\Interfaces",
     "\\01_Exercise\\Models",
     "\\01_Exercise\\Services"
   ],
-  "SelectedNode": "\\01_Exercise\\Services\\UserService.cs",
   "PreviewInSolutionExplorer": false
 }

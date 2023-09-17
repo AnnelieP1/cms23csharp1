@@ -111,7 +111,7 @@ internal class MenuService : IMenuService
         Console.WriteLine("Alla användare");
         Console.WriteLine("_____________________________________________________");
 
-        foreach (var user in _userService.GetAll());
+        foreach (var user in _userService.GetAll())
         Console.WriteLine($"{user.FirstName} {user.LastName} <{user.Email}>");
         Console.ReadKey();
     }
