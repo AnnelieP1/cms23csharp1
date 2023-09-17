@@ -25,7 +25,7 @@ internal class UserService : IUserService
         //Lösenordet får vi hantera separat, av säkerhetsskäl...
     }
 
-    public User Get(Expression<Func<User, bool>> expression)
+    public User Get(Func <User, bool> expression)
     {
         var user = _users.FirstOrDefault(expression, null!);
         return user;            
