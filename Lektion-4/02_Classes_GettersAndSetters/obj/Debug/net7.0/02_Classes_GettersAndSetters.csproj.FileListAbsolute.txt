@@ -1,0 +1,14 @@
+C:\cms23-csharp1\Lektion-4\02_Classes_GettersAndSetters\bin\Debug\net7.0\02_Classes_GettersAndSetters.exe
+C:\cms23-csharp1\Lektion-4\02_Classes_GettersAndSetters\bin\Debug\net7.0\02_Classes_GettersAndSetters.deps.json
+C:\cms23-csharp1\Lektion-4\02_Classes_GettersAndSetters\bin\Debug\net7.0\02_Classes_GettersAndSetters.runtimeconfig.json
+C:\cms23-csharp1\Lektion-4\02_Classes_GettersAndSetters\bin\Debug\net7.0\02_Classes_GettersAndSetters.dll
+C:\cms23-csharp1\Lektion-4\02_Classes_GettersAndSetters\bin\Debug\net7.0\02_Classes_GettersAndSetters.pdb
+C:\cms23-csharp1\Lektion-4\02_Classes_GettersAndSetters\obj\Debug\net7.0\02_Classes_GettersAndSetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\cms23-csharp1\Lektion-4\02_Classes_GettersAndSetters\obj\Debug\net7.0\02_Classes_GettersAndSetters.AssemblyInfoInputs.cache
+C:\cms23-csharp1\Lektion-4\02_Classes_GettersAndSetters\obj\Debug\net7.0\02_Classes_GettersAndSetters.AssemblyInfo.cs
+C:\cms23-csharp1\Lektion-4\02_Classes_GettersAndSetters\obj\Debug\net7.0\02_Classes_GettersAndSetters.csproj.CoreCompileInputs.cache
+C:\cms23-csharp1\Lektion-4\02_Classes_GettersAndSetters\obj\Debug\net7.0\02_Classes_GettersAndSetters.dll
+C:\cms23-csharp1\Lektion-4\02_Classes_GettersAndSetters\obj\Debug\net7.0\refint\02_Classes_GettersAndSetters.dll
+C:\cms23-csharp1\Lektion-4\02_Classes_GettersAndSetters\obj\Debug\net7.0\02_Classes_GettersAndSetters.pdb
+C:\cms23-csharp1\Lektion-4\02_Classes_GettersAndSetters\obj\Debug\net7.0\02_Classes_GettersAndSetters.genruntimeconfig.cache
+C:\cms23-csharp1\Lektion-4\02_Classes_GettersAndSetters\obj\Debug\net7.0\ref\02_Classes_GettersAndSetters.dll

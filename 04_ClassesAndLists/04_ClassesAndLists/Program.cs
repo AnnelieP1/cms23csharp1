@@ -92,11 +92,39 @@ do
     Console.Write("First name: ");
     contact.FirstName = Console.ReadLine() ?? "";
 
+    Console.Write("Last name: ");
+    contact.LastName = Console.ReadLine() ?? "";
+
+    Console.Write("Email: ");
+    contact.Email = Console.ReadLine() ?? "";
+
+    Console.Write("PhoneNumber: ");
+    contact.PhoneNumber = Console.ReadLine() ?? "";
+
+    Console.Write("Vill du lägga till en person i listan? (y/n): ");
+    answer = Console.ReadLine();
+
+
+
 
 
     contactPersons.Add(contact);
 
 } while (answer == "y");
+
+
+Console.Clear();
+Console.WriteLine("Här är alla kontaktpersoner: ");
+
+foreach (var contact in contactPersons)
+
+{ 
+Console.WriteLine($"{contact.FirstName} {contact.LastName} <{contact.Email}> {contact.PhoneNumber}");
+}
+
+
+
+
 
 /*
  _____________________________________________________________________________________________________________________________________

@@ -1,0 +1,14 @@
+C:\cms23-csharp1\Lektion-4\01_Classes\bin\Debug\net7.0\01_Classes.exe
+C:\cms23-csharp1\Lektion-4\01_Classes\bin\Debug\net7.0\01_Classes.deps.json
+C:\cms23-csharp1\Lektion-4\01_Classes\bin\Debug\net7.0\01_Classes.runtimeconfig.json
+C:\cms23-csharp1\Lektion-4\01_Classes\bin\Debug\net7.0\01_Classes.dll
+C:\cms23-csharp1\Lektion-4\01_Classes\bin\Debug\net7.0\01_Classes.pdb
+C:\cms23-csharp1\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\cms23-csharp1\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.AssemblyInfoInputs.cache
+C:\cms23-csharp1\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.AssemblyInfo.cs
+C:\cms23-csharp1\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.csproj.CoreCompileInputs.cache
+C:\cms23-csharp1\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.dll
+C:\cms23-csharp1\Lektion-4\01_Classes\obj\Debug\net7.0\refint\01_Classes.dll
+C:\cms23-csharp1\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.pdb
+C:\cms23-csharp1\Lektion-4\01_Classes\obj\Debug\net7.0\01_Classes.genruntimeconfig.cache
+C:\cms23-csharp1\Lektion-4\01_Classes\obj\Debug\net7.0\ref\01_Classes.dll

@@ -1,0 +1,4 @@
+C:\cms23-csharp1\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\cms23-csharp1\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.AssemblyInfoInputs.cache
+C:\cms23-csharp1\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.AssemblyInfo.cs
+C:\cms23-csharp1\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.csproj.CoreCompileInputs.cache
