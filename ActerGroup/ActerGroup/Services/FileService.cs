@@ -15,7 +15,7 @@ public class FileService
         sw.Write(contentAsJson);
     }
 
-    public static string ReadFromFile(string? result)
+    public static string ReadFromFile()
     {
         if (File.Exists(filePath))
         {
@@ -25,11 +25,5 @@ public class FileService
         return null!;
 
     }
-
-    public static void SaveToFile(string _acter, object fullname)
-    {
-        throw new NotImplementedException();
-    }
-
 
 }

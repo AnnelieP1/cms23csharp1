@@ -6,10 +6,10 @@ namespace ActerGroup.Tests;
 
 public class ActerMemberTests
 {
-   
+
 
     [Fact]
-    public void AddActerMember_ShouldAddActerMemberToList_ReturnTrue()      
+    public void AddActerMember_ShouldAddActerMemberToList_ReturnTrue()
     {
         // Arrange - Förberedelse
 
@@ -18,7 +18,7 @@ public class ActerMemberTests
 
         // Act - Utförande
 
-        bool result = _acterService.AddActerMemberToList(_acter); 
+        bool result = _acterService.AddActerMemberToList(_acter);
 
         // Assert - Kontroll
 
@@ -52,30 +52,8 @@ public class ActerMemberTests
         Assert.Equal("Annelie", result.FirstName);
 
     }
-
-    [Fact]
-    public static void SaveToFile_ShouldSaveAllActerMembersToFile_ReturnTrue()
-    {
-        // Arrange
-        ActerService acterService = new ActerService();
-        ActerMember _acter = new ActerMember();
-        FileService savetofile = new FileService()
-        {
-
-        // Act
-
-        bool result = FileService.SaveToFile();
-
-
-
-
-
-        // Assert
-
-
-
-    }
-    }
+}
+    
 
 
 

@@ -23,7 +23,7 @@ public class ActerService
     {
         var list = FileService.ReadFromFile();
         if (!string.IsNullOrEmpty(list))
-        {
+        { 
             _actermembers = JsonConvert.DeserializeObject<List<ActerMember>>(list)!;
 
         }
