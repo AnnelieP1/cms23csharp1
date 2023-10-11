@@ -1,0 +1,14 @@
+C:\cms23-csharp1\00_Repetition\00_Repetition\bin\Debug\net7.0\00_Repetition.exe
+C:\cms23-csharp1\00_Repetition\00_Repetition\bin\Debug\net7.0\00_Repetition.deps.json
+C:\cms23-csharp1\00_Repetition\00_Repetition\bin\Debug\net7.0\00_Repetition.runtimeconfig.json
+C:\cms23-csharp1\00_Repetition\00_Repetition\bin\Debug\net7.0\00_Repetition.dll
+C:\cms23-csharp1\00_Repetition\00_Repetition\bin\Debug\net7.0\00_Repetition.pdb
+C:\cms23-csharp1\00_Repetition\00_Repetition\obj\Debug\net7.0\00_Repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\cms23-csharp1\00_Repetition\00_Repetition\obj\Debug\net7.0\00_Repetition.AssemblyInfoInputs.cache
+C:\cms23-csharp1\00_Repetition\00_Repetition\obj\Debug\net7.0\00_Repetition.AssemblyInfo.cs
+C:\cms23-csharp1\00_Repetition\00_Repetition\obj\Debug\net7.0\00_Repetition.csproj.CoreCompileInputs.cache
+C:\cms23-csharp1\00_Repetition\00_Repetition\obj\Debug\net7.0\00_Repetition.dll
+C:\cms23-csharp1\00_Repetition\00_Repetition\obj\Debug\net7.0\refint\00_Repetition.dll
+C:\cms23-csharp1\00_Repetition\00_Repetition\obj\Debug\net7.0\00_Repetition.pdb
+C:\cms23-csharp1\00_Repetition\00_Repetition\obj\Debug\net7.0\00_Repetition.genruntimeconfig.cache
+C:\cms23-csharp1\00_Repetition\00_Repetition\obj\Debug\net7.0\ref\00_Repetition.dll

@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ActerGroup",
+    "\\ActerGroup.Tests",
+    "\\ActerGroup\\Models",
+    "\\ActerGroup\\Services"
+  ],
+  "SelectedNode": "\\ActerGroup\\Services\\FileService.cs",
+  "PreviewInSolutionExplorer": false
+}

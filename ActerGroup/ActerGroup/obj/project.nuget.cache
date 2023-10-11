@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YbmLyg0YiaJK4WMTr4zkZwmpDVIRqufHiH3RJB6UZ7Aj/GjbTmaqJnOlFBPMBL2eYTRl18zffUlHVo3m9N2ysA==",
+  "success": true,
+  "projectFilePath": "C:\\cms23-csharp1\\ActerGroup\\ActerGroup\\ActerGroup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gydan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\gydan\\.nuget\\packages\\solrnet.core\\1.1.1\\solrnet.core.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
