@@ -7,12 +7,13 @@ using System.Threading.Tasks;
 
 namespace ActerGroup.Services;
 
-public class MenuService
+public class MenuService //Här skapar jag menyn som jag navigerar mig igenom för att kunna välja vad jag vill göra i min applikation.
 {
-    private readonly ActerService _acterService = new ActerService();
-
-
-    public void MainMenu()
+    private readonly ActerService _acterService = new ActerService(); 
+    /* Jag anropar Acterservice och innehållet som finns i acterService för att kunna skapa en medlem, spara ner en medlem i en lista
+     plocka fram en medlem ur listan, radera en medlem från listan, plocka fram en medlem ur listan om jag tex behöver göra en ändring. 
+    */
+    public void MainMenu()//Min förstasida med alla valmöjligheter. 
     {
         _acterService.GetAllActerMembers();
 
@@ -29,7 +30,8 @@ public class MenuService
             Console.WriteLine("0. Avsluta");
             var option = Console.ReadLine();
 
-            switch (option)
+            switch (option) //Här talar jag om vad jag vill ska hända vid varje valmöjlighet. Om jag väljer val nr 2 ska alla medlemmar
+                            // visas väljer jag 1 ska jag skriva in de uppgifter konsollen ber mig att fylla i. OSV. 
             {
                 case ("1"):
                     CreateMenu();
@@ -59,7 +61,7 @@ public class MenuService
         while (exit == false);
 
     }
-    public void CreateMenu()
+    public void CreateMenu() //Här skapas den medlem som jag har bestämt utseendet på i klassen Actermember. 
     {
         Console.Clear();
         Console.WriteLine("Skapa en ny medlem");
@@ -82,13 +84,13 @@ public class MenuService
 
 
 
-        _acterService.AddActerMemberToList(actermember);
-        Console.WriteLine("En ny teatermedlem har lagts till.");
+        _acterService.AddActerMemberToList(actermember); // Här ber jag ActerService att lägga till medlemmen i listan som jag har skapat
+        Console.WriteLine("En ny teatermedlem har lagts till.");// i ActerService. 
         Console.ReadKey();
 
 
     }
-    public void GetAllActerMembers()
+    public void GetAllActerMembers() // Här ber jag ActerService plocka fram alla medlemmar från listan ActerMember som finns i ActerService. 
     {
         var actermembers = _acterService.GetAllActerMembers();
         foreach (var actermember in actermembers)
@@ -99,7 +101,7 @@ public class MenuService
         }
         Console.ReadKey();
     }
-    public void GetOneActerMember()
+    public void GetOneActerMember() //Genom att ange fullname kan jag plocka fram en specifik medlem ur listan
     {
         Console.Write("Ange teatermedlemmens gruppnamn, förnamn, efternamn och emailadress: ");
         var fullname = Console.ReadLine();
@@ -110,7 +112,7 @@ public class MenuService
 
     }
 
-    public void RemoveActerMember()
+    public void RemoveActerMember() // Här kan jag genom fullname radera en medlem från listan. 
     {
         Console.Write("Ange teatermedlemmens gruppnamn, förnamn, efternamn och emailadress: ");
         var fullname = Console.ReadLine();

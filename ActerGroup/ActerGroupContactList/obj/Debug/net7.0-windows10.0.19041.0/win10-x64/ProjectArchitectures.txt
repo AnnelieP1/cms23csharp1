@@ -1,0 +1,1 @@
+C:\cms23-csharp1\ActerGroup\ActerGroupContactList\ActerGroupContactList.csproj;x64

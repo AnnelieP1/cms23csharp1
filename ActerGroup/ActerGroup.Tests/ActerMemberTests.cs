@@ -25,6 +25,10 @@ public class ActerMemberTests
         Assert.True(result);
     }
 
+    /*Genom att installera ett xunit test i min applikation kan jag testa olika enhetsdelar för att säkerställa att min kod är
+     korrekt och faktiskt gör det den ska. Ovan kontrollerar jag att ActerServic sparar ner den nyskapade ActerMember i den listan 
+    som finns i ActerMemberklassen. */
+
 
     [Fact]
     public void AddActerMember_ShouldAddActerMemberToList_ReturnCorrectActerMemberFromList()

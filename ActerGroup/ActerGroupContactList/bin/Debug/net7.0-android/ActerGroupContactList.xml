@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ActerGroupContactList</name>
+    </assembly>
+    <members>
+        <member name="T:ActerGroupContactList.Mvvm.ViewModels.AddViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:ActerGroupContactList.Mvvm.ViewModels.AddViewModel.Contact">
+            <inheritdoc cref="F:ActerGroupContactList.Mvvm.ViewModels.AddViewModel.contact"/>
+        </member>
+        <member name="F:ActerGroupContactList.Mvvm.ViewModels.AddViewModel.addCommand">
+            <summary>The backing field for <see cref="P:ActerGroupContactList.Mvvm.ViewModels.AddViewModel.AddCommand"/>.</summary>
+        </member>
+        <member name="P:ActerGroupContactList.Mvvm.ViewModels.AddViewModel.AddCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ActerGroupContactList.Mvvm.ViewModels.AddViewModel.Add"/>.</summary>
+        </member>
+        <member name="F:ActerGroupContactList.Mvvm.ViewModels.AddViewModel.goBackCommand">
+            <summary>The backing field for <see cref="P:ActerGroupContactList.Mvvm.ViewModels.AddViewModel.GoBackCommand"/>.</summary>
+        </member>
+        <member name="P:ActerGroupContactList.Mvvm.ViewModels.AddViewModel.GoBackCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ActerGroupContactList.Mvvm.ViewModels.AddViewModel.GoBack"/>.</summary>
+        </member>
+        <member name="T:ActerGroupContactList.Mvvm.ViewModels.MainViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:ActerGroupContactList.Mvvm.ViewModels.MainViewModel.Contacts">
+            <inheritdoc cref="F:ActerGroupContactList.Mvvm.ViewModels.MainViewModel.contacts"/>
+        </member>
+        <member name="F:ActerGroupContactList.Mvvm.ViewModels.MainViewModel.goToAddCommand">
+            <summary>The backing field for <see cref="P:ActerGroupContactList.Mvvm.ViewModels.MainViewModel.GoToAddCommand"/>.</summary>
+        </member>
+        <member name="P:ActerGroupContactList.Mvvm.ViewModels.MainViewModel.GoToAddCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ActerGroupContactList.Mvvm.ViewModels.MainViewModel.GoToAdd"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Contact">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Contact" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Contacts">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Contacts" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Contact">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Contact" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Contacts">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Contacts" generated properties.</summary>
+        </member>
+    </members>
+</doc>

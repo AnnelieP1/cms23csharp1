@@ -1,0 +1,1 @@
+C:\cms23-csharp1\ActerGroup\AddressBook\AddressBook.csproj;x64
