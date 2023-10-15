@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ActerGroupContactList",
+    "\\ActerGroupContactList\\Mvvm",
+    "\\ActerGroupContactList\\Mvvm\\ViewModels",
+    "\\ActerGroupContactList\\Mvvm\\Views",
+    "\\ActerGroupContactList\\Services"
   ],
   "SelectedNode": "\\ActerGroup.sln",
   "PreviewInSolutionExplorer": false
