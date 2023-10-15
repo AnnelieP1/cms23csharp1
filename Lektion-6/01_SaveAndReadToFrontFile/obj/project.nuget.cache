@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SEnumqymct0InOirlWxBtjuIghSEjoCLJTTEoRbaEtjxNDS8ohs6C3GkdfDuEFGWVjlidwBwh8c4Q/+rksS8Nw==",
+  "dgSpecHash": "Fc6FuSGLvzDddd2I0QS5uBqx6U03de1xUFfnGyCikGiKT86rLpJaobIRCCvG2nZXfTjjirLjRnNdY8gDA1m6kg==",
   "success": true,
   "projectFilePath": "C:\\cms23-csharp1\\Lektion-6\\01_SaveAndReadToFrontFile\\01_SaveAndReadToFrontFile.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gydan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

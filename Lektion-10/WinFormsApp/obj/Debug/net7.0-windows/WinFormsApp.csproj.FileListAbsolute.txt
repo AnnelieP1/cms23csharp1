@@ -1,0 +1,16 @@
+C:\cms23-csharp1\Lektion-10\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.exe
+C:\cms23-csharp1\Lektion-10\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.deps.json
+C:\cms23-csharp1\Lektion-10\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.runtimeconfig.json
+C:\cms23-csharp1\Lektion-10\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.dll
+C:\cms23-csharp1\Lektion-10\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.pdb
+C:\cms23-csharp1\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Form1.resources
+C:\cms23-csharp1\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\cms23-csharp1\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\cms23-csharp1\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\cms23-csharp1\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\cms23-csharp1\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\cms23-csharp1\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.dll
+C:\cms23-csharp1\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\refint\WinFormsApp.dll
+C:\cms23-csharp1\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.pdb
+C:\cms23-csharp1\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\cms23-csharp1\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\ref\WinFormsApp.dll

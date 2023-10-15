@@ -1,0 +1,14 @@
+C:\cms23-csharp1\Lektion-6\02_TodoList\obj\Debug\net7.0\02_TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\cms23-csharp1\Lektion-6\02_TodoList\obj\Debug\net7.0\02_TodoList.AssemblyInfoInputs.cache
+C:\cms23-csharp1\Lektion-6\02_TodoList\obj\Debug\net7.0\02_TodoList.AssemblyInfo.cs
+C:\cms23-csharp1\Lektion-6\02_TodoList\obj\Debug\net7.0\02_TodoList.csproj.CoreCompileInputs.cache
+C:\cms23-csharp1\Lektion-6\02_TodoList\bin\Debug\net7.0\02_TodoList.exe
+C:\cms23-csharp1\Lektion-6\02_TodoList\bin\Debug\net7.0\02_TodoList.deps.json
+C:\cms23-csharp1\Lektion-6\02_TodoList\bin\Debug\net7.0\02_TodoList.runtimeconfig.json
+C:\cms23-csharp1\Lektion-6\02_TodoList\bin\Debug\net7.0\02_TodoList.dll
+C:\cms23-csharp1\Lektion-6\02_TodoList\bin\Debug\net7.0\02_TodoList.pdb
+C:\cms23-csharp1\Lektion-6\02_TodoList\obj\Debug\net7.0\02_TodoList.dll
+C:\cms23-csharp1\Lektion-6\02_TodoList\obj\Debug\net7.0\refint\02_TodoList.dll
+C:\cms23-csharp1\Lektion-6\02_TodoList\obj\Debug\net7.0\02_TodoList.pdb
+C:\cms23-csharp1\Lektion-6\02_TodoList\obj\Debug\net7.0\02_TodoList.genruntimeconfig.cache
+C:\cms23-csharp1\Lektion-6\02_TodoList\obj\Debug\net7.0\ref\02_TodoList.dll

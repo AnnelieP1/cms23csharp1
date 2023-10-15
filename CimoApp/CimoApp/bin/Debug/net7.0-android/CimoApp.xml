@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CimoApp</name>
+    </assembly>
+    <members>
+        <member name="T:CimoApp.Mvvm.viewModel.AddViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="F:CimoApp.Mvvm.viewModel.AddViewModel.goBackCommand">
+            <summary>The backing field for <see cref="P:CimoApp.Mvvm.viewModel.AddViewModel.GoBackCommand"/>.</summary>
+        </member>
+        <member name="P:CimoApp.Mvvm.viewModel.AddViewModel.GoBackCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:CimoApp.Mvvm.viewModel.AddViewModel.GoBack"/>.</summary>
+        </member>
+        <member name="T:CimoApp.Mvvm.viewModel.MainViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="F:CimoApp.Mvvm.viewModel.MainViewModel.goToAddCommand">
+            <summary>The backing field for <see cref="P:CimoApp.Mvvm.viewModel.MainViewModel.GoToAddCommand"/>.</summary>
+        </member>
+        <member name="P:CimoApp.Mvvm.viewModel.MainViewModel.GoToAddCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:CimoApp.Mvvm.viewModel.MainViewModel.GoToAdd"/>.</summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,14 @@
+C:\cms23-csharp1\Lektion-9\01_Assignment_Example\bin\Debug\net7.0\01_Assignment_Example.exe
+C:\cms23-csharp1\Lektion-9\01_Assignment_Example\bin\Debug\net7.0\01_Assignment_Example.deps.json
+C:\cms23-csharp1\Lektion-9\01_Assignment_Example\bin\Debug\net7.0\01_Assignment_Example.runtimeconfig.json
+C:\cms23-csharp1\Lektion-9\01_Assignment_Example\bin\Debug\net7.0\01_Assignment_Example.dll
+C:\cms23-csharp1\Lektion-9\01_Assignment_Example\bin\Debug\net7.0\01_Assignment_Example.pdb
+C:\cms23-csharp1\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\01_Assignment_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\cms23-csharp1\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\01_Assignment_Example.AssemblyInfoInputs.cache
+C:\cms23-csharp1\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\01_Assignment_Example.AssemblyInfo.cs
+C:\cms23-csharp1\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\01_Assignment_Example.csproj.CoreCompileInputs.cache
+C:\cms23-csharp1\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\01_Assignment_Example.dll
+C:\cms23-csharp1\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\refint\01_Assignment_Example.dll
+C:\cms23-csharp1\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\01_Assignment_Example.pdb
+C:\cms23-csharp1\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\01_Assignment_Example.genruntimeconfig.cache
+C:\cms23-csharp1\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\ref\01_Assignment_Example.dll

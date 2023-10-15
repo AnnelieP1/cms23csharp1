@@ -1,0 +1,1 @@
+C:\cms23-csharp1\Lektion-10\mauiapp1\mauiapp1.csproj;x64

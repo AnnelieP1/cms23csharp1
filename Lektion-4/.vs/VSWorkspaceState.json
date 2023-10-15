@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\03_Classes_Constructors",
+    "\\03_Classes_Constructors\\Models",
+    "\\04_Classes_Inheritance",
+    "\\04_Classes_Inheritance\\Models",
+    "\\05_Classes_Inheritance",
+    "\\05_Classes_Inheritance\\Models",
+    "\\05_Classes_Inheritance\\Services"
   ],
-  "SelectedNode": "\\Lektion-4.sln",
+  "SelectedNode": "\\05_Classes_Inheritance\\Services\\CustomerService.cs",
   "PreviewInSolutionExplorer": false
 }

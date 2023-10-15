@@ -1,0 +1,17 @@
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\bin\Debug\net7.0\01_SaveAndReadToFrontFile.exe
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\bin\Debug\net7.0\01_SaveAndReadToFrontFile.deps.json
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\bin\Debug\net7.0\01_SaveAndReadToFrontFile.runtimeconfig.json
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\bin\Debug\net7.0\01_SaveAndReadToFrontFile.dll
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\bin\Debug\net7.0\01_SaveAndReadToFrontFile.pdb
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\obj\Debug\net7.0\01_SaveAndReadToFrontFile.csproj.AssemblyReference.cache
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\obj\Debug\net7.0\01_SaveAndReadToFrontFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\obj\Debug\net7.0\01_SaveAndReadToFrontFile.AssemblyInfoInputs.cache
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\obj\Debug\net7.0\01_SaveAndReadToFrontFile.AssemblyInfo.cs
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\obj\Debug\net7.0\01_SaveAndReadToFrontFile.csproj.CoreCompileInputs.cache
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\obj\Debug\net7.0\01_SaveAndReadToFrontFile.csproj.CopyComplete
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\obj\Debug\net7.0\01_SaveAndReadToFrontFile.dll
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\obj\Debug\net7.0\refint\01_SaveAndReadToFrontFile.dll
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\obj\Debug\net7.0\01_SaveAndReadToFrontFile.pdb
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\obj\Debug\net7.0\01_SaveAndReadToFrontFile.genruntimeconfig.cache
+C:\cms23-csharp1\Lektion-6\01_SaveAndReadToFrontFile\obj\Debug\net7.0\ref\01_SaveAndReadToFrontFile.dll

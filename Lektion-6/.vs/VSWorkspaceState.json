@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\01_SaveAndReadToFrontFile",
+    "\\01_SaveAndReadToFrontFile\\Models",
+    "\\01_SaveAndReadToFrontFile\\Services",
+    "\\02_TodoList.Tests",
+    "\\02_TodoList.Tests\\UnitTests",
+    "\\02_TodoList\\Models"
+  ],
+  "SelectedNode": "\\01_SaveAndReadToFrontFile\\Services\\CustomerService.cs",
+  "PreviewInSolutionExplorer": false
+}
