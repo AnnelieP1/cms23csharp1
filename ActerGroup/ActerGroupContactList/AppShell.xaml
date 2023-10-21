@@ -5,9 +5,8 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:viewmodels="clr-namespace:ActerGroupContactList.Mvvm.ViewModels"
     xmlns:views="clr-namespace:ActerGroupContactList.Mvvm.Views"
-
     xmlns:local="clr-namespace:ActerGroupContactList"
-
+    
     Shell.FlyoutBehavior="Disabled">
 
     <ShellContent

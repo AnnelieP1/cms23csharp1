@@ -3,6 +3,7 @@
     "",
     "\\ActerGroupContactList",
     "\\ActerGroupContactList\\Mvvm",
+    "\\ActerGroupContactList\\Mvvm\\Models",
     "\\ActerGroupContactList\\Mvvm\\ViewModels",
     "\\ActerGroupContactList\\Mvvm\\Views",
     "\\ActerGroupContactList\\Services"

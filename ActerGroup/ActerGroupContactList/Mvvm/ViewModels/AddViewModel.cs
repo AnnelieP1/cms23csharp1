@@ -15,6 +15,7 @@ namespace ActerGroupContactList.Mvvm.ViewModels
         [ObservableProperty]
 
         ContactModel contact = new ContactModel();
+        
 
         [RelayCommand]
         async Task Add()
@@ -30,6 +31,22 @@ namespace ActerGroupContactList.Mvvm.ViewModels
             {
                 await Shell.Current.GoToAsync(".."); 
             }
+
+        [RelayCommand]
+
+        async Task UpdateContact() 
+        { 
+            ContactService.UpdateContact(Contact);
+            Contact = new ContactModel();
+
+            await Shell.Current.GoToAsync("..");
+        }
+
+        [RelayCommand]
+        async Task GoBackToMainPage() 
+        {
+            await Shell.Current.GoToAsync("..");
+        }
         
     }
 }

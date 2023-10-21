@@ -47,6 +47,9 @@ namespace ActerGroupContactList.Services
         public static void UpdateContact(ContactModel contact)
         {
             UpdateContact(contact);
+            ContactsUpdated?.Invoke();
+
+
         }
 
     }

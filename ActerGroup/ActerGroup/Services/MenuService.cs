@@ -7,13 +7,32 @@ using System.Threading.Tasks;
 
 namespace ActerGroup.Services;
 
-public class MenuService //Här skapar jag menyn som jag navigerar mig igenom för att kunna välja vad jag vill göra i min applikation.
+//I Mainmenu skapar jag menyn som jag navigerar mig igenom för att kunna välja vad jag vill göra i min applikation.
+
+/* Jag anropar Acterservice och innehållet som finns i acterService för att kunna skapa en medlem, spara ner en medlem i en lista
+    plocka fram en medlem ur listan, radera en medlem från listan, plocka fram en medlem ur listan om jag tex behöver göra en ändring. 
+   */
+
+//Min förstasida med alla valmöjligheter skapas genom en do. 
+
+//Genom switch talar jag om vad jag vill ska hända vid varje valmöjlighet. Om jag väljer val nr 2 ska alla medlemmar
+// visas väljer jag 1 ska jag skriva in de uppgifter konsollen ber mig att fylla i. OSV. 
+
+// I CreateMenu skapas den medlem som jag har bestämt utseendet på i klassen Actermember. 
+
+// I AddAActerMemberToList ber jag ActerService att lägga till medlemmen i listan som jag har skapat 
+
+// I GetAllActerMembers ber jag ActerService plocka fram alla medlemmar från listan ActerMember som finns i ActerService. 
+
+//Genom att ange fullname kan jag plocka fram en specifik medlem ur listan i GetOneActerMember
+
+// Här kan jag genom fullname radera en medlem från listan. I RemoveActerMember
+
+public class MenuService 
 {
     private readonly ActerService _acterService = new ActerService(); 
-    /* Jag anropar Acterservice och innehållet som finns i acterService för att kunna skapa en medlem, spara ner en medlem i en lista
-     plocka fram en medlem ur listan, radera en medlem från listan, plocka fram en medlem ur listan om jag tex behöver göra en ändring. 
-    */
-    public void MainMenu()//Min förstasida med alla valmöjligheter. 
+   
+    public void MainMenu()
     {
         _acterService.GetAllActerMembers();
 
@@ -30,8 +49,7 @@ public class MenuService //Här skapar jag menyn som jag navigerar mig igenom f�
             Console.WriteLine("0. Avsluta");
             var option = Console.ReadLine();
 
-            switch (option) //Här talar jag om vad jag vill ska hända vid varje valmöjlighet. Om jag väljer val nr 2 ska alla medlemmar
-                            // visas väljer jag 1 ska jag skriva in de uppgifter konsollen ber mig att fylla i. OSV. 
+            switch (option) 
             {
                 case ("1"):
                     CreateMenu();
@@ -61,7 +79,8 @@ public class MenuService //Här skapar jag menyn som jag navigerar mig igenom f�
         while (exit == false);
 
     }
-    public void CreateMenu() //Här skapas den medlem som jag har bestämt utseendet på i klassen Actermember. 
+
+    public void CreateMenu() 
     {
         Console.Clear();
         Console.WriteLine("Skapa en ny medlem");
@@ -84,13 +103,13 @@ public class MenuService //Här skapar jag menyn som jag navigerar mig igenom f�
 
 
 
-        _acterService.AddActerMemberToList(actermember); // Här ber jag ActerService att lägga till medlemmen i listan som jag har skapat
-        Console.WriteLine("En ny teatermedlem har lagts till.");// i ActerService. 
+        _acterService.AddActerMemberToList(actermember);
+        Console.WriteLine("En ny teatermedlem har lagts till."); 
         Console.ReadKey();
 
 
     }
-    public void GetAllActerMembers() // Här ber jag ActerService plocka fram alla medlemmar från listan ActerMember som finns i ActerService. 
+    public void GetAllActerMembers() 
     {
         var actermembers = _acterService.GetAllActerMembers();
         foreach (var actermember in actermembers)
@@ -101,7 +120,7 @@ public class MenuService //Här skapar jag menyn som jag navigerar mig igenom f�
         }
         Console.ReadKey();
     }
-    public void GetOneActerMember() //Genom att ange fullname kan jag plocka fram en specifik medlem ur listan
+    public void GetOneActerMember() 
     {
         Console.Write("Ange teatermedlemmens gruppnamn, förnamn, efternamn och emailadress: ");
         var fullname = Console.ReadLine();
@@ -112,7 +131,7 @@ public class MenuService //Här skapar jag menyn som jag navigerar mig igenom f�
 
     }
 
-    public void RemoveActerMember() // Här kan jag genom fullname radera en medlem från listan. 
+    public void RemoveActerMember() 
     {
         Console.Write("Ange teatermedlemmens gruppnamn, förnamn, efternamn och emailadress: ");
         var fullname = Console.ReadLine();
